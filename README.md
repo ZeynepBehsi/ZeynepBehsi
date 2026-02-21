@@ -93,7 +93,7 @@
 <div align="center">
 
 <!-- Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZeynepBehsi&layout=donut-vertical&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=8" alt="Top Languages" height="320" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ZeynepBehsi&layout=donut-vertical&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=8" alt="Top Languages" height="320" />
 
 <br/><br/>
 
