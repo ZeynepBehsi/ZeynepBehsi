@@ -25,22 +25,17 @@
 
 ## 🧬 About Me
 
-```yaml
-name: Zeynep Behşi
-role: Data Scientist @ Mindsane | Researcher
-focus_areas:
-  - AI Agents & Multi-Agent Systems
-  - Data Science & Statistics
-  - Machine Learning & Deep Learning
-  - Graph ML & Graph Neural Networks (GNN)
-  - Large Language Models (LLMs)
-  - Natural Language Processing (NLP)
-currently:
-  - 🔭 Building intelligent multi-agent systems
-  - 🧪 Researching Graph ML & GNN architectures
-  - 📝 Writing about Data Science on Medium
-  - 🤝 Open to collaborations on AI/ML research
-```
+<img align="right" src="https://img.shields.io/badge/🍀-Data%20Scientist%20%40%20Mindsane-1f6feb?style=for-the-badge&labelColor=0d1117" />
+
+🔬 **Researcher** passionate about building intelligent systems at the intersection of **Graph ML**, **AI Agents**, and **Deep Learning**.
+
+🔭 Currently building intelligent **multi-agent systems** and researching **GNN architectures**
+
+🧠 Focus areas:
+
+`AI Agents` `Multi-Agent Systems` `Data Science` `Statistics` `Machine Learning` `Deep Learning` `Graph ML` `GNN` `LLMs` `NLP`
+
+📝 Writing about Data Science on [Medium](https://medium.com/@zeynepbehsi) &nbsp;•&nbsp; 🤝 Open to collaborations on **AI/ML research**
 
 ---
 
