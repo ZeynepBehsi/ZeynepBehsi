@@ -5,7 +5,7 @@
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=🧠+AI+Agents+%7C+Graph+Neural+Networks+%7C+LLMs;📊+Statistics+%7C+Machine+Learning+%7C+Deep+Learning;🔬+Data+Science+%7C+Graph+ML+%7C+NLP+Research" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=650&height=40&lines=AI+Agents+%7C+Graph+Neural+Networks+%7C+LLMs;Statistics+%7C+Machine+Learning+%7C+Deep+Learning;Data+Science+%7C+Graph+ML+%7C+NLP+Research" alt="Typing SVG" />
 </a>
 
 <!-- Profile Badges -->
