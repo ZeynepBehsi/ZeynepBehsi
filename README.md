@@ -117,10 +117,14 @@
 
 <div align="center">
 
-[![Multi-Agents Projects](https://github-readme-stats.vercel.app/api/pin/?username=ZeynepBehsi&repo=Multi-Agents_Projects&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb)](https://github.com/ZeynepBehsi/Multi-Agents_Projects)
-[![Anomaly Detection](https://github-readme-stats.vercel.app/api/pin/?username=ZeynepBehsi&repo=Anomaly_detection&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb)](https://github.com/ZeynepBehsi/Anomaly_detection)
-[![Sunspots Time Series](https://github-readme-stats.vercel.app/api/pin/?username=ZeynepBehsi&repo=Sunspots_time_series_analysis&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb)](https://github.com/ZeynepBehsi/Sunspots_time_series_analysis)
-[![FashionMNIST CNN](https://github-readme-stats.vercel.app/api/pin/?username=ZeynepBehsi&repo=FashionMNIST-CNN-Classifier&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb)](https://github.com/ZeynepBehsi/FashionMNIST-CNN-Classifier)
+| Project | Description | Tech |
+|:--------|:------------|:-----|
+| 🤖 [**Multi-Agents Projects**](https://github.com/ZeynepBehsi/Multi-Agents_Projects) | Multi-agent research: RL, rule-based & LLM frameworks with swarm intelligence and decentralized decision-making | ![Python](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) |
+| 🔍 [**Anomaly Detection**](https://github.com/ZeynepBehsi/Anomaly_detection) | Comprehensive toolkit for detecting anomalies using unsupervised machine learning techniques | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| ☀️ [**Sunspots Time Series**](https://github.com/ZeynepBehsi/Sunspots_time_series_analysis) | Sunspot activity forecasting using DNN, LSTM & CNN on data from 1749 to present | ![Python](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) |
+| 👗 [**FashionMNIST CNN**](https://github.com/ZeynepBehsi/FashionMNIST-CNN-Classifier) | CNN model for clothing image classification across 10 categories using Fashion MNIST | ![Python](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) |
+| 🐱 [**Dog or Cat Classifier**](https://github.com/ZeynepBehsi/Dog-or-Cat--Image_Classification) | Image classification model to differentiate dogs and cats using CNNs | ![Python](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) |
+| 🚗 [**Car Price Prediction**](https://github.com/ZeynepBehsi/Car-Pirce-Prediction-with-ML-regression-model) | ML regression models including neural networks to predict car prices | ![Python](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) |
 
 </div>
 
